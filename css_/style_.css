@@ -17,3 +17,6 @@ body{
   text-align: center;
 }
 
+figcaption{
+  font-style: italic;
+}
