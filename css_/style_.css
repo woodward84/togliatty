@@ -1,9 +1,11 @@
-p{
-    color: black;
-  }
-
- 
 
   img{
-    width: 200px;
+    width: 550px;
   }
+
+h1, h2, h3 {
+  background-color: gray;
+  font-family: Verdana;
+  text-align: center;
+}
+
